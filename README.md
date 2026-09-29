@@ -16,7 +16,7 @@ I build AI systems that have to actually work in production, from LLM agents and
 
 | Project | What it is | Stack |
 | --- | --- | --- |
-| **[FinSight AI](https://github.com/Arsalan-05/FinSight_AI)** | Personal finance agent: RAG over transaction history, stateful LangGraph workflows, MCP-connected tools. Built solo, live in production (v1.5.1). | Python · FastAPI · LangGraph · MCP · PostgreSQL + pgvector · Groq · Next.js · Docker |
+| **[FinSight AI](https://github.com/Arsalan-05/FinSight_AI)** | Personal finance agent: RAG over transaction history, stateful LangGraph workflows, MCP-connected tools. Built solo, live in production (v2.0.0). | Python · FastAPI · LangGraph · MCP · PostgreSQL + pgvector · Groq · Next.js · Docker |
 | **[KernelForge](https://github.com/Arsalan-05/KernelForge)** | Verification-gated LLM fine-tuning for Triton GPU kernel generation. *In active development.* | Python · PyTorch · Triton · LoRA/QLoRA |
 | **[RoomFinderAI](https://github.com/Arsalan-05/RoomFinderAI)** | Co-founded rental analysis and negotiation platform: LLM negotiation engine, 60+ API endpoints, 15+ integrated data sources. Deployed and live. | Node.js · Supabase · PostgreSQL · LLM APIs |
 
