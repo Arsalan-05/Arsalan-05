@@ -1,4 +1,4 @@
-# Hi, I'm Arsalan 👋
+# Hi, I'm Arsalan Amir Ali 👋
 
 **AI Software Engineer · CS @ York University (Lassonde) · Toronto**
 
